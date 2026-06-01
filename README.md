@@ -35,29 +35,6 @@ praneet = {
 }
 ```
 
----
-
-## 🚀 Featured Project — EduMentor AI
-
-> **An AI-powered academic mentoring system for engineering students**
-
-```
-🎙️ Whisper STT  ──▶  🧠 Fine-tuned Qwen3 + ChromaDB RAG  ──▶  🔊 Kokoro TTS
-```
-
-**What it covers:**
-- 📚 Academics & DSA coaching
-- 💻 Competitive programming guidance
-- 🏢 Internship & placement prep
-- 📄 Resume review & career counselling
-- 🎓 Higher studies & research paths
-
-**Stack:** `Python` · `Qwen3` · `ChromaDB` · `Whisper` · `Kokoro TTS` · `FastAPI` · `RAG`
-
-[![EduMentor Repo](https://img.shields.io/badge/View%20Repo-EduMentor%20AI-a78bfa?style=for-the-badge&logo=github)](https://github.com/PraneetNS/qwen-mentor-full)
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
